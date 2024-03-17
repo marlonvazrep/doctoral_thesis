@@ -1,8 +1,8 @@
-# Concise Dataset (C-Dat)
+# IDSET - CRIAÇÃO DE UM CONJUNTO DE IMAGENS DE OBJETOS RESIDENCIAS PARA DETECÇÃO E RECONHECIMENTO VOLTADO A ROBOCUP@HOME BRASIL
 This repository keep the algorithms to data generate used in the article. Also contain the link to the created dataset  to this project
 
 # Access to image dataset
-Link to C-Dat image dataset
+Link to IDSET image dataset
     https://drive.google.com/drive/folders/16rweFz7Zzg56k_bXkrhuUCqDJPSrg-S9?usp=sharing
 
 # Python scripts
