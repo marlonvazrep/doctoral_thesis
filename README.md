@@ -8,6 +8,8 @@ Link to IDSET image dataset
    
    DOI Link: https://dx.doi.org/10.21227/9k7w-v820
 
+   This license allows you to remix, adapt, and build upon the material for non-commercial purposes, provided that you give appropriate credit to the author(s) and license your new creations under the same terms. Content created by third parties, cited and referenced in this work, is not covered by this license.
+
 # Python scripts
 
 References used in python scripts
