@@ -1,4 +1,4 @@
-# ODUTF - DATASET RGB-D PARA APLICAÇÕES DE DETECÇÃO E RECONHECIMENTO DE OBJETOS DOMÉSTICOS NA ROBOCUP@HOME BRASIL
+# ODUTF - DATASET FOR DOMESTIC OBJECT DETECTION AND RECOGNITION APPLICATIONS IN ROBOCUP@HOME BRAZIL
 
 This repository keep the algorithms to data generate used in the article. Also contain the link to the created dataset  to this project
 
