@@ -1,9 +1,11 @@
-# IDSET - CRIAÇÃO DE UM CONJUNTO DE IMAGENS DE OBJETOS RESIDENCIAS PARA DETECÇÃO E RECONHECIMENTO VOLTADO A ROBOCUP@HOME BRASIL
+# ODUTF - DATASET RGB-D PARA APLICAÇÕES DE DETECÇÃO E RECONHECIMENTO DE OBJETOS DOMÉSTICOS NA ROBOCUP@HOME BRASIL
+
 This repository keep the algorithms to data generate used in the article. Also contain the link to the created dataset  to this project
 
 # Access to image dataset
 Link to IDSET image dataset
-    https://drive.google.com/drive/folders/16rweFz7Zzg56k_bXkrhuUCqDJPSrg-S9?usp=sharing
+   https://drive.google.com/drive/folders/16rweFz7Zzg56k_bXkrhuUCqDJPSrg-S9?usp=sharing](https://ieee-dataport.org//documents/odutf-image-dataset-robocuphome-brasil
+   DOI Link: https://dx.doi.org/10.21227/9k7w-v820
 
 # Python scripts
 
