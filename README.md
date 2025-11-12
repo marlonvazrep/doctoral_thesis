@@ -3,7 +3,7 @@
 This repository keep the algorithms to data generate used in the article. Also contain the link to the created dataset  to this project
 
 # Access to image dataset
-Link to IDSET image dataset
+Link to ODUTF image dataset
    https://ieee-dataport.org//documents/odutf-image-dataset-robocuphome-brasil
    
    DOI Link: https://dx.doi.org/10.21227/9k7w-v820
